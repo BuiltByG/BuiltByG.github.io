@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Senior Analyst in the offshore banking industry and aspiring Data Scientist
-BSc. Data Science, Innovation Management and Computer Science in progress 
+# About Me:
+I am a Senior Analyst with over a decade of experience in the AML Compliance/Banking industry, and aspiring Data Scientist. Currently pursuing a BSc. in Data Science, Innovation Management and Computer Science to formalize and improve upon existing skills.
+
+
