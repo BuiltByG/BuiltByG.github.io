@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Senior Analyst in the offshore banking industry and aspiring Data Scientist
-BSc. Data Science, Innovation Management and Computer Science in progress
+BSc. Data Science, Innovation Management and Computer Science in progress 
