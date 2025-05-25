@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # About Me:
-I am a Senior Analyst with over a decade of experience in the AML Compliance/Banking industry, and aspiring Data Scientist. Currently pursuing a BSc. in Data Science, Innovation Management and Computer Science to formalize and improve upon existing skills.
+I am a Senior Analyst with over a decade of experience in the AML Compliance/Banking industry, and aspiring Data Scientist. Currently, I'm pursuing a BSc. in Data Science, Innovation Management and Computer Science to formalize and improve upon existing skills.
 
 
