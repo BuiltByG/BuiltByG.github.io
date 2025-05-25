@@ -1,7 +1,5 @@
-
-##
-### Senior Analyst in the offshore banking industry and aspiring Data Scientist
-#### BSc. Data Science, Innovation Management and Computer Science in progress
+Senior Analyst in the offshore banking industry and aspiring Data Scientist
+BSc. Data Science, Innovation Management and Computer Science in progress
 
 <!--
 **BuiltByG/BuiltByG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
