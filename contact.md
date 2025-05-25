@@ -9,6 +9,14 @@ permalink: /contact/
   action="https://formspree.io/f/xyzwqder"
   method="POST"
 >
+   <label>
+    First name:
+    <input type="name" name="First Name">
+  </label>
+   <label>
+    Surname:
+    <input type="name" name="Surname">
+  </label>
   <label>
     Your email:
     <input type="email" name="email">
