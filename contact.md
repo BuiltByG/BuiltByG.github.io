@@ -5,35 +5,18 @@ permalink: /contact/
 ---
 
 ## Let's Connect!
-
 <form
-  action="[https://formspree.io/f/xyzwqder]"
-  class="fs-form"
-  target="_top"
+  action="https://formspree.io/f/xyzwqder"
   method="POST"
 >
-  <div class="fs-field">
-    <label class="fs-label" for="name">Name</label>
-    <input class="fs-input" id="name" name="name" required />
-  </div>
-  <div class="fs-field">
-    <label class="fs-label" for="email">Email Address</label>
-    <input class="fs-input" id="email" name="email" required />
-  </div>
-  <div class="fs-field">
-    <label class="fs-label" for="number">Phone Number</label>
-    <input class="fs-input" id="number" name="number" />
-  </div>
-  <div class="fs-field">
-    <label class="fs-label" for="message">Inquiry Message</label>
-    <textarea
-      class="fs-textarea"
-      id="message"
-      name="message"
-      required
-    ></textarea>
-  </div>
-  <div class="fs-button-group">
-    <button class="fs-button" type="submit">Submit</button>
-  </div>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
 </form>
