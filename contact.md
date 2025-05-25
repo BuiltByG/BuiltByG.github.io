@@ -7,7 +7,7 @@ permalink: /contact/
 ## Let's Connect!
 
 <form
-  action="https://formspree.io/f/{FORM_ID}"
+  action="[https://formspree.io/f/xyzwqder]"
   class="fs-form"
   target="_top"
   method="POST"
