@@ -12,19 +12,21 @@ permalink: /contact/
    <label>
     First name:
     <input type="name" name="First Name">
-  </label>
+  </label><br>
    <label>
     Surname:
     <input type="name" name="Surname">
-  </label>
+  </label><br>
   <label>
     Your email:
     <input type="email" name="email">
-  </label>
+  </label><br>
   <label>
     Your message:
     <textarea name="message"></textarea>
-  </label>
+  </label><br>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
+<br>
+<a href=https://builtbyg.github.io>Home</a>
