@@ -4,7 +4,7 @@ title: Contact
 permalink: https://builtbyg.github.io/contact/
 ---
 * * *
-[Home](./index.md)
+## [Home](./index.md)
 * * *
 ## Let's Connect!
 
