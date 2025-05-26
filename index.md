@@ -1,3 +1,5 @@
+# Portfolio
+
 # About Me:
 
 I am a Senior Analyst with over a decade of experience in the AML Compliance/Banking industry, and aspiring Data Scientist. Currently, I'm pursuing a BSc. in Data Science, Innovation Management and Computer Science to formalize and improve upon existing skills.
