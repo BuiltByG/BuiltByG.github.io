@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+permalink: https://builtbyg.github.io/contact/
 ---
 
 ## Let's Connect!
