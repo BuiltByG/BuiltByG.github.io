@@ -30,7 +30,7 @@ permalink: https://builtbyg.github.io/contact/
 </form>
 <br>
 ---
-layout: page
+layout: link
 title: Home
 permalink: https://builtbyg.github.io/
 ---
