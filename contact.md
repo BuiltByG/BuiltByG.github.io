@@ -29,4 +29,8 @@ permalink: https://builtbyg.github.io/contact/
   <button type="submit">Send</button>
 </form>
 <br>
-<a href=https://builtbyg.github.io>Home</a>
+---
+layout: page
+title: Home
+permalink: https://builtbyg.github.io/
+---
