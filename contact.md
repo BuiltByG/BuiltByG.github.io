@@ -13,19 +13,19 @@ permalink: https://builtbyg.github.io/contact/
    <label>
     First name:
     <input type="name" name="First Name">
-  </label><br>
+  </label><br><br>
    <label>
     Surname:
     <input type="name" name="Surname">
-  </label><br>
+  </label><br><br>
   <label>
     Your email:
     <input type="email" name="email">
-  </label><br>
+  </label><br><br>
   <label>
     Your message:
     <textarea name="message"></textarea>
-  </label><br>
+  </label><br><br>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
