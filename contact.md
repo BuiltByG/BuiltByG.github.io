@@ -29,4 +29,4 @@ permalink: https://builtbyg.github.io/contact/
   <button type="submit">Send</button>
 </form>
 <br>
-[Home](https://builtbyg.github.io/)
+[Home](./index.md)
