@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: default
 title: Contact
 permalink: https://builtbyg.github.io/contact/
 ---
 
 ## Let's Connect!
+* * *
 <form
   action="https://formspree.io/f/xyzwqder"
   method="POST"
@@ -29,4 +30,5 @@ permalink: https://builtbyg.github.io/contact/
   <button type="submit">Send</button>
 </form>
 <br>
+* * *
 [Home](./index.md)
