@@ -26,7 +26,7 @@ permalink: https://builtbyg.github.io/contact/
   </label><br><br>
   <label>
     Your message:
-    <textarea name="message", height=25, width=50></textarea>
+    <textarea name="message"></textarea>
   </label><br><br>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
