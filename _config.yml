@@ -3,10 +3,6 @@ description: Data Modelling and Visualization | Business Intelligence | Python
 show_downloads: false
 google_analytics:
 theme: _sass/jekyll-theme-cayman
-color:
-  header: "#000"
-  gradient_left: "#e53935"
-  gradient_right: "#f57c00"
 nav:
   - title: Home
     url: https://builtbyg.github.io/
