@@ -2,7 +2,7 @@ title: Portfolio
 description: Data Modelling and Visualization | Business Intelligence | Python
 show_downloads: false
 google_analytics:
-theme: _sass/jekyll-theme-cayman
+remote_theme: tuur29/pages-themes-cayman
 nav:
   - title: Home
     url: https://builtbyg.github.io/
