@@ -4,6 +4,8 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 remote_theme: tuur29/pages-themes-cayman
+plugins:
+  - jekyll-remote-theme
 nav:
   - title: Home
     url: https://builtbyg.github.io/
