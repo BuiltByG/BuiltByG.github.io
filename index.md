@@ -33,7 +33,7 @@ The Dashboard highlights employees that may not be on track to completing the re
 
 ### Data Model - Visuals
 
-<img src= "https://www.drawdb.app/editor?shareId=69bb2a0a18816b6e427119950af687ef">
+<img src= "image.png">
 
 ### Data Model - Description
 
