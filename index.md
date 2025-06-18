@@ -39,27 +39,27 @@ The Dashboard highlights employees that may not be on track to completing the re
 
  The Database Schema consists of 7 tables shown above and a brief summary of the nature of the dataset for each is provided below.
 
-### Employees
+#### Employees
 
 This table holds all of the employees of the company. It includes an ID [Integer, Primary key], first name, surname, Job Level, Department, Employment Status, Start Date and Termination Date. 
 
-### Employment Status
+#### Employment Status
 
 This is a fact table that stores possible options for employment status of employees. Current options are *Active* and *Terminated.* It is connected to the Employees table via EmploymentStatusID.
 
-### Departments
+#### Departments
 
 This is a fact table that stores the ID and Department name of the company. The ID here is a foreign key in the Employees table as DepartmentID.
 
-### Job Level
+#### Job Level
 
 This is a fact table that stores the ID and Job Level options of the company. The ID here is a foreign key in the Employees table as JobLevelID.
 
-### Training Sessions
+#### Training Sessions
 
 This is a fact table that stores all the unique training sessions undertaken by any employee of the company. It’s primary key, id, is foreign key in the AttendanceLog. Other information stored in the table include the training session title, date, credits earned from attending the session, the facilitator, and the training type [TrainingTypeID], for example, Ethics, Corporate Governance, AML Compliance, BSA.
 
-## Training Type
+#### Training Type
 
 This is a fact table that stores the ID and description for the subcategories of training sessions related to AML/CFT Compliance. It’s ID [primary key] is a foreign key in the Training Sessions table [TrainingTypeID].
 
