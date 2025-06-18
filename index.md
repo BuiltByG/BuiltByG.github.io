@@ -31,11 +31,11 @@ The Dashboard highlights employees that may not be on track to completing the re
  A report has been created for anyone to use which allows the viewer to see upcoming webinars hosted by ACAMS, and includes a button which leads directly to the website’s webinar catalog in order to register.
 
 
- ### Data Model - Visuals
+### Data Model - Visuals
 
- https://www.drawdb.app/editor?shareId=69bb2a0a18816b6e427119950af687ef
 
- ### Data Model - Description
+
+### Data Model - Description
 
  The Database Schema consists of 7 tables shown above and a brief summary of the nature of the dataset for each is provided below.
 
@@ -59,11 +59,11 @@ This is a fact table that stores the ID and Job Level options of the company. Th
 
 This is a fact table that stores all the unique training sessions undertaken by any employee of the company. It’s primary key, id, is foreign key in the AttendanceLog. Other information stored in the table include the training session title, date, credits earned from attending the session, the facilitator, and the training type [TrainingTypeID], for example, Ethics, Corporate Governance, AML Compliance, BSA.
 
-### Training Type
+## Training Type
 
 This is a fact table that stores the ID and description for the subcategories of training sessions related to AML/CFT Compliance. It’s ID [primary key] is a foreign key in the Training Sessions table [TrainingTypeID].
 
-### Attendance Log
+#### Attendance Log
 
 This is a dimensional table that captures each instance of an employee’s attendance at a session. It includes the SessionID, which is the id from the Training Sessions table, Attendee ID, which is the id from the Employees table, and Completion Status.
 
