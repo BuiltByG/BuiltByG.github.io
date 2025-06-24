@@ -1,6 +1,6 @@
     
 * * *
-## [Contact](./contact.md)
+## [Let's Connect!](./contact.md)
 * * *
 
 
