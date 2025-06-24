@@ -69,12 +69,25 @@ This is a dimensional table that captures each instance of an employee’s atten
 
 ## Insights
 
+<img src = "image-2.png">
+
 So far only one employee from a low-risk category is not on track to meeting training requirements. Perhaps this means that the company is finally improving on compliance with training requirements. Risk categories need to be assigned to employees for a more targeted report.
 
 Whilst overall the company appears to have struggled and has not been hitting targets as it relates to meeting staff training requirements, specific departments have been meeting training requirements over the past 2 years. When filtered to exclude employees who have been terminated, Investments, Compliance, Private Banking and Legal departments all met training requirements consistently since 2023, and are on track to meeting requirements in 2025.
 
+<img src = "image-4.png">
 Further attention needs to be placed on Customer Service.
 
 Training tends to spike annually in February, March and August. There is not enough contextual data to infer the reason for this. However, it provides insight into planning for future training sessions. A manager might want to study the company calendar/agenda closely for additional opportunities to stitch in vital training for employees not in compliance with the training policy.
+
+## Actions
+
+Once the user identifies employees that are not in compliance with the training requirements, the report allows him/her to conveniently:
+<ul>View upcoming training sessions</ul>
+<ul>Register for upcoming traiining sessions via direct link to external website</ul>
+<ul>Contact the employee's supervisor via email</ul>
+
+<img src = "image-6.png">
+<img src = "image-5.png">
 
 
