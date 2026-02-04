@@ -4,7 +4,7 @@
 * * *
 
 
-<img src="https://media.licdn.com/dms/image/v2/C4E03AQEv4RXCekqU_w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1534002520117?e=1753920000&v=beta&t=2E5gE2OS8GrbyiLFLEeSolaDUhzz438p6U9fTRv-ktI" alt="My Photo" 
+<img src="https://media.licdn.com/dms/image/v2/C4E03AQEv4RXCekqU_w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1534002520200?e=1772064000&v=beta&t=d6XAyc8GfEQby6kft78q4D6lPpDKCZs6bBNsZbuElsQ" alt="My Photo" 
      style="width:150px; height:150px; border-radius:50%; border: 3px solid #ccc;">
      
 # About Me:
